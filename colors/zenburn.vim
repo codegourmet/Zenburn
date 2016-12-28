@@ -518,7 +518,7 @@ else
         hi Folded        ctermbg=236 ctermfg=109
         hi TabLine       ctermbg=235 ctermfg=187 cterm=none
         hi TabLineSel    ctermbg=236 ctermfg=229 cterm=bold
-        hi TabLineFill   ctermbg=233 ctermfg=233
+        hi TabLineFill   ctermbg=233 ctermfg=237
     endif
 endif
 
